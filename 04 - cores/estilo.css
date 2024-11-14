@@ -1,0 +1,23 @@
+/* CORES */
+
+h2 {
+    border: solid red 10px;
+    margin: 10px;
+    padding: 10px;
+    color: green;
+}
+
+p {
+    border: solid red, 10px;
+    margin: 10px;
+    padding: 10px;
+    color: aqua;
+}
+
+body {
+    background-color: azure;
+}
+
+
+
+/* Não há muito segredo por detrás da adesão de cores no css, basta conhecer o tipo de cor desejada e aplicar conforme o codigo exadecimal. No exemplo acima, nós colocamos cores nas letras, nas bordas e titulos do conteúdo do arquivo. */
